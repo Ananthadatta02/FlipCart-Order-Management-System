@@ -10,7 +10,12 @@ You can view the main class source code by clicking the link below:
 [View Main Class Source Code](https://github.com/Ananthadatta02/FlipCart-Order-Management-System/blob/master/FlipCart_MainClass.java)
 
 ---
-
+## How to Clone and Run the Project
+To clone this project to your local machine, use the following command:
+```bash
+git clone https://github.com/Ananthadatta02/FlipCart-Order-Management-System.git
+```
+---
 ## Features
 1. **Add New Orders**  
    Allows users to add new orders with details such as order ID, product name, customer name, quantity, and price.
